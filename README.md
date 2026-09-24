@@ -39,16 +39,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-> 📍 Pin your best repos directly from GitHub: go to your profile → **Customize your pins** → select up to 6 repos. They'll show up right here automatically for anyone visiting your profile.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthann30&repo=REPLACE_WITH_REPO_1&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthann30&repo=REPLACE_WITH_REPO_2&theme=default" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
