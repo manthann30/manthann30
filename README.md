@@ -21,7 +21,6 @@
 - 🌱 Deepening my skills in **Deep Learning, MLOps, and applied AI**
 - 👯 Open to collaborating on **ML, Data Science, and open-source projects**
 - 💬 Ask me about **Python, Machine Learning, or Data Analysis**
-- ⚡ Fun fact: I'd rather debug a model at 2 AM than leave it "probably fine" 😄
 
 ---
 
